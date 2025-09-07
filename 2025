@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Katalog Aidan Studio</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+  <h1>Katalog Aidan Studio Percetakan</h1>
+  <p>File katalog online siap dipakai di GitHub Pages. Silakan ganti nomor WA, alamat, jam toko, dan daftar produk di bagian <code>&lt;script&gt;</code>.</p>
+</body>
+</html>
